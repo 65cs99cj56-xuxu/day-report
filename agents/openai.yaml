@@ -1,0 +1,4 @@
+interface:
+  display_name: "XZY Day Report"
+  short_description: "汇总真实 Codex 会话并生成精简、可回查的每日进度报告"
+  default_prompt: "Use $xzy-day-report to summarize today’s Codex sessions into my daily progress report."
